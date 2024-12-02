@@ -4,7 +4,7 @@ This project is a Grade Book Application designed to help teachers manage studen
 
 Through this project, I aimed to write a functional and user-friendly application that showcases core Java syntax and features while simulating a real-world use case of data management.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=Qzf0XpHDdBQ)
 
 # Development Environment
 
